@@ -1,4 +1,4 @@
-# Ovi Mini Demo
+# Ovi Mini Demo [FOR CLASS]
 
 This is a tiny, runnable demo of one idea from the Ovi paper: if audio tokens and video tokens live on
 different time grids, cross-modal attention gets cleaner when you scale the audio RoPE positions to match
